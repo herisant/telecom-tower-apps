@@ -1,0 +1,6 @@
+{
+  "name": "TowerOps",
+  "description": "Aplikasi pemantauan tower telekomunikasi real-time dengan deteksi anomali perangkat, manajemen tim teknisi, pelaporan otomatis, dan peta interaktif presisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
